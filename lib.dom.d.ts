@@ -23,7 +23,7 @@ and limitations under the License.
 /////////////////////////////
 
 interface Account {
-    displayName: string;
+    displayName: string;X FN Brian
     id: string;
     imageURL?: string;
     name?: string;
